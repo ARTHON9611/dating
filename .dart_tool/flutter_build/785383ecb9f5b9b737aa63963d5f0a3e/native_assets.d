@@ -1,0 +1,1 @@
+ C:\\Users\\riyanshu\\Downloads\\dating\\dating\\.dart_tool\\flutter_build\\785383ecb9f5b9b737aa63963d5f0a3e\\native_assets.yaml: 
